@@ -8,7 +8,7 @@ Nicholas Weber, Ali PiyarAli, & Josef Svoboda
 
 ### Description
 This is a final project for DGMD E-14 through Harvard Extension School. We are creating a virtual reality application/experience using the Unity game engine. The application will consist of a procedural operating room where the user is tasked with picking up objects which have fallen onto the floor and bringing them to the trashbin. 
-* [Technical Paper](https://github.com/apiyarali/gradvek/blob/9b246a3d98337cedb3f495db6db715be372339b1/Gradvek%20Presentation.pdf](https://github.com/apiyarali/Virtual-Reality-Operating-Room/blob/eb269209cd7550d75d97df3d7fb13d860a31389f/Technical%20Report.pdf)
+* [Technical Paper]("https://github.com/apiyarali/gradvek/blob/9b246a3d98337cedb3f495db6db715be372339b1/Gradvek%20Presentation.pdf](https://github.com/apiyarali/Virtual-Reality-Operating-Room/blob/eb269209cd7550d75d97df3d7fb13d860a31389f/Technical%20Report.pdf")
 
 
 ### How to Install and Setup
